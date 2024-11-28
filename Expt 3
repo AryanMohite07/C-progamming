@@ -1,0 +1,19 @@
+Operations:
+input
+Calculator
++: Addition
+-: Subtraction
+*: Multiplication
+/: Division
+%: Modulus
+Enter First Operand: 4
+Enter Second Operand: 5
+Enter Operation:
+4.0 5.0 = 20.0
+Continue? (Y/N): y
+Enter First Operand: 3
+Enter Second Operand: 4
+Enter Operation:
+3843
+Continue? (Y/N): n
+Thank you for using Calculator
